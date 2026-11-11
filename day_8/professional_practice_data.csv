@@ -1,0 +1,516 @@
+Transaction_ID,Customer_ID,Order_Date,Product_Category,Price_Per_Unit,Quantity,Payment_Method,Customer_Rating,Country
+TXN-1000,CUST-039,2023-01-01,Home & Kitchen,15.0,3,Credit Card,2.0,UK
+TXN-1001,CUST-029,2023-01-01,Electronics,15.0,2,Crypto,3.0,pakistan
+TXN-1002,CUST-015,2023-01-01,Toys,450.0,-1,PayPal,1.0,
+TXN-1003,CUST-043,2023-01-01,Toys,,4,Credit Card,5.0,US
+TXN-1004,CUST-008,2023-01-01,Electronics,,0,Cash on Delivery,4.0,UAE
+TXN-1005,CUST-021,2023-01-01,Electronics,450.0,10,Credit Card,5.0,
+TXN-1006,CUST-039,2023-01-01,Toys,-50.0,-1,Credit Card,,US
+TXN-1007,CUST-019,2023-01-01,Clothing,1200.0,3,Crypto,2.0,UAE
+TXN-1008,CUST-023,2023-01-01,Clothing,15.0,5,PayPal,5.0,UK
+TXN-1009,CUST-011,2023-01-01,Home & Kitchen,-50.0,-1,Cash on Delivery,2.0,USA
+TXN-1010,CUST-011,2023-01-01,Home & Kitchen,15.0,2,credit_card,5.0,UK
+TXN-1011,CUST-024,2023-01-01,Toys,1200.0,2,credit_card,1.0,UK
+TXN-1012,CUST-036,2023-01-01,Toys,,10,Credit Card,1.0,
+TXN-1013,CUST-040,2023-01-01,Toys,-50.0,5,Crypto,1.0,Pakistan
+TXN-1014,CUST-024,2023-01-01,Home & Kitchen,120.0,4,Crypto,1.0,
+TXN-1015,CUST-003,2023-01-01,Books,120.0,-1,credit_card,1.0,pakistan
+TXN-1016,CUST-022,2023-01-01,Home & Kitchen,120.0,5,Cash on Delivery,1.0,UAE
+TXN-1017,CUST-002,2023-01-01,Home & Kitchen,,4,PayPal,2.0,USA
+TXN-1018,CUST-024,2023-01-01,Electronics,,5,Cash on Delivery,4.0,
+TXN-1019,CUST-044,2023-01-01,Books,1200.0,5,PayPal,5.0,UAE
+TXN-1020,CUST-030,2023-01-01,Books,15.0,1,credit_card,1.0,US
+TXN-1021,CUST-038,2023-01-01,Home & Kitchen,1200.0,2,PayPal,2.0,UAE
+TXN-1022,CUST-002,2023-01-01,Books,1200.0,-1,Crypto,2.0,US
+TXN-1023,CUST-021,2023-01-01,Home & Kitchen,,5,Credit Card,2.0,
+TXN-1024,CUST-033,2023-01-02,Electronics,120.0,-1,Credit Card,4.0,pakistan
+TXN-1025,CUST-012,2023-01-02,Electronics,25.5,10,credit_card,5.0,
+TXN-1026,CUST-022,2023-01-02,Electronics,15.0,5,Crypto,4.0,US
+TXN-1027,CUST-044,2023-01-02,Clothing,,3,Cash on Delivery,3.0,UAE
+TXN-1028,CUST-025,2023-01-02,Electronics,120.0,2,Crypto,10.0,UAE
+TXN-1029,CUST-049,2023-01-02,Home & Kitchen,-50.0,3,Credit Card,2.0,US
+TXN-1030,CUST-027,2023-01-02,Clothing,25.5,-1,Credit Card,3.0,UK
+TXN-1031,CUST-042,2023-01-02,Home & Kitchen,25.5,-1,Crypto,,pakistan
+TXN-1032,CUST-028,2023-01-02,Clothing,,2,Crypto,1.0,Pakistan
+TXN-1033,CUST-016,2023-01-02,Home & Kitchen,450.0,-1,Credit Card,10.0,USA
+TXN-1034,CUST-015,2023-01-02,Clothing,15.0,3,Cash on Delivery,1.0,UAE
+TXN-1035,CUST-047,2023-01-02,Electronics,25.5,5,credit_card,4.0,USA
+TXN-1036,CUST-044,2023-01-02,Clothing,,5,credit_card,10.0,Pakistan
+TXN-1037,CUST-003,2023-01-02,Home & Kitchen,,1,Crypto,5.0,
+TXN-1038,CUST-037,2023-01-02,Clothing,120.0,10,credit_card,3.0,USA
+TXN-1039,CUST-007,2023-01-02,Toys,-50.0,-1,Credit Card,5.0,Pakistan
+TXN-1040,CUST-021,2023-01-02,Electronics,450.0,3,Credit Card,4.0,US
+TXN-1041,CUST-009,2023-01-02,Clothing,15.0,-1,Crypto,1.0,UK
+TXN-1042,CUST-039,2023-01-02,,1200.0,-1,Crypto,10.0,UAE
+TXN-1043,CUST-018,2023-01-02,Clothing,-50.0,4,Crypto,5.0,Pakistan
+TXN-1044,CUST-004,2023-01-02,Clothing,-50.0,1,Cash on Delivery,5.0,USA
+TXN-1045,CUST-025,2023-01-02,Home & Kitchen,120.0,3,credit_card,1.0,UAE
+TXN-1046,CUST-014,2023-01-02,Home & Kitchen,25.5,3,Crypto,10.0,UK
+TXN-1047,CUST-009,2023-01-02,Home & Kitchen,25.5,-1,PayPal,3.0,US
+TXN-1048,CUST-026,2023-01-03,Electronics,120.0,1,PayPal,1.0,
+TXN-1049,CUST-002,2023-01-03,Electronics,,5,Credit Card,5.0,UAE
+TXN-1050,CUST-020,2023-01-03,Home & Kitchen,25.5,3,credit_card,3.0,
+TXN-1051,CUST-028,2023-01-03,Toys,450.0,5,Crypto,3.0,Pakistan
+TXN-1052,CUST-047,2023-01-03,Home & Kitchen,15.0,1,PayPal,1.0,UK
+TXN-1053,CUST-007,2023-01-03,Electronics,-50.0,5,credit_card,5.0,USA
+TXN-1054,CUST-044,2023-01-03,Home & Kitchen,-50.0,2,Credit Card,4.0,UK
+TXN-1055,CUST-008,2023-01-03,Home & Kitchen,450.0,4,Cash on Delivery,5.0,UK
+TXN-1056,CUST-047,2023-01-03,Electronics,25.5,0,credit_card,2.0,pakistan
+TXN-1057,CUST-035,2023-01-03,Clothing,-50.0,3,credit_card,10.0,UK
+TXN-1058,CUST-014,2023-01-03,Clothing,1200.0,10,Cash on Delivery,,UK
+TXN-1059,CUST-017,2023-01-03,Clothing,15.0,4,credit_card,4.0,UAE
+TXN-1060,CUST-036,2023-01-03,Clothing,15.0,0,Credit Card,3.0,USA
+TXN-1061,CUST-040,2023-01-03,Electronics,-50.0,5,Credit Card,4.0,UAE
+TXN-1062,CUST-004,2023-01-03,Electronics,120.0,3,Cash on Delivery,10.0,UAE
+TXN-1063,CUST-002,2023-01-03,Electronics,-50.0,5,Crypto,3.0,Pakistan
+TXN-1064,CUST-006,2023-01-03,,120.0,2,PayPal,10.0,UAE
+TXN-1065,CUST-042,2023-01-03,Books,-50.0,1,Crypto,3.0,pakistan
+TXN-1066,CUST-004,2023-01-03,Clothing,1200.0,3,credit_card,4.0,pakistan
+TXN-1067,CUST-029,2023-01-03,,,0,PayPal,3.0,
+TXN-1068,CUST-018,2023-01-03,Home & Kitchen,15.0,0,Cash on Delivery,3.0,Pakistan
+TXN-1069,CUST-026,2023-01-03,Clothing,-50.0,2,Cash on Delivery,2.0,
+TXN-1070,CUST-044,2023-01-03,Clothing,1200.0,2,PayPal,5.0,
+TXN-1071,CUST-034,2023-01-03,Electronics,120.0,-1,Credit Card,5.0,US
+TXN-1072,CUST-010,2023-01-04,Electronics,120.0,3,PayPal,,USA
+TXN-1073,CUST-036,2023-01-04,Home & Kitchen,15.0,5,credit_card,,USA
+TXN-1074,CUST-014,2023-01-04,Home & Kitchen,450.0,10,Credit Card,2.0,UAE
+TXN-1075,CUST-031,2023-01-04,Electronics,-50.0,0,Cash on Delivery,,UAE
+TXN-1076,CUST-048,2023-01-04,Toys,25.5,0,PayPal,10.0,US
+TXN-1077,CUST-015,2023-01-04,Books,120.0,2,Crypto,4.0,UAE
+TXN-1078,CUST-008,2023-01-04,Electronics,,4,Crypto,1.0,USA
+TXN-1079,CUST-014,2023-01-04,Toys,,2,credit_card,10.0,
+TXN-1080,CUST-023,2023-01-04,,120.0,10,Crypto,1.0,UK
+TXN-1081,CUST-040,2023-01-04,,450.0,5,PayPal,1.0,pakistan
+TXN-1082,CUST-021,2023-01-04,Electronics,450.0,5,PayPal,2.0,UK
+TXN-1083,CUST-016,2023-01-04,Home & Kitchen,1200.0,4,Crypto,10.0,UK
+TXN-1084,CUST-045,2023-01-04,Clothing,,0,PayPal,2.0,USA
+TXN-1085,CUST-018,2023-01-04,Home & Kitchen,1200.0,2,credit_card,3.0,UK
+TXN-1086,CUST-047,2023-01-04,,,-1,Credit Card,1.0,US
+TXN-1087,CUST-024,2023-01-04,Home & Kitchen,-50.0,5,credit_card,4.0,Pakistan
+TXN-1088,CUST-026,2023-01-04,Books,-50.0,10,credit_card,,UAE
+TXN-1089,CUST-025,2023-01-04,Toys,25.5,3,PayPal,4.0,Pakistan
+TXN-1090,CUST-045,2023-01-04,Books,-50.0,1,Credit Card,,
+TXN-1091,CUST-041,2023-01-04,Clothing,25.5,1,PayPal,1.0,pakistan
+TXN-1092,CUST-029,2023-01-04,Electronics,-50.0,1,Cash on Delivery,1.0,UAE
+TXN-1093,CUST-015,2023-01-04,Clothing,15.0,-1,PayPal,1.0,UK
+TXN-1094,CUST-045,2023-01-04,Toys,-50.0,0,PayPal,2.0,pakistan
+TXN-1095,CUST-001,2023-01-04,Electronics,1200.0,2,PayPal,10.0,UAE
+TXN-1096,CUST-025,2023-01-05,Clothing,120.0,4,Credit Card,,US
+TXN-1097,CUST-007,2023-01-05,Electronics,1200.0,-1,PayPal,10.0,US
+TXN-1098,CUST-009,2023-01-05,Home & Kitchen,120.0,-1,Credit Card,2.0,US
+TXN-1099,CUST-024,2023-01-05,Toys,450.0,5,Crypto,2.0,US
+TXN-1100,CUST-001,2023-01-05,Toys,1200.0,3,Cash on Delivery,5.0,UK
+TXN-1101,CUST-044,2023-01-05,Electronics,450.0,-1,Credit Card,4.0,Pakistan
+TXN-1102,CUST-008,2023-01-05,Toys,25.5,10,Crypto,4.0,UAE
+TXN-1103,CUST-024,2023-01-05,Home & Kitchen,25.5,3,Credit Card,3.0,UK
+TXN-1104,CUST-011,2023-01-05,Clothing,15.0,10,Credit Card,2.0,US
+TXN-1105,CUST-017,2023-01-05,Home & Kitchen,-50.0,0,Cash on Delivery,,
+TXN-1106,CUST-008,2023-01-05,Clothing,1200.0,2,credit_card,5.0,Pakistan
+TXN-1107,CUST-035,2023-01-05,Clothing,450.0,1,credit_card,5.0,
+TXN-1108,CUST-035,2023-01-05,Home & Kitchen,120.0,-1,Credit Card,10.0,pakistan
+TXN-1109,CUST-033,2023-01-05,Electronics,25.5,2,PayPal,4.0,
+TXN-1110,CUST-005,2023-01-05,Clothing,-50.0,0,Crypto,2.0,pakistan
+TXN-1111,CUST-042,2023-01-05,Clothing,25.5,4,PayPal,3.0,pakistan
+TXN-1112,CUST-039,2023-01-05,Electronics,120.0,4,PayPal,2.0,US
+TXN-1113,CUST-041,2023-01-05,Clothing,-50.0,0,Credit Card,10.0,pakistan
+TXN-1114,CUST-028,2023-01-05,Home & Kitchen,-50.0,10,Credit Card,1.0,USA
+TXN-1115,CUST-007,2023-01-05,Home & Kitchen,450.0,5,Credit Card,2.0,UAE
+TXN-1116,CUST-009,2023-01-05,Books,450.0,5,Credit Card,10.0,UAE
+TXN-1117,CUST-008,2023-01-05,Books,1200.0,10,credit_card,1.0,US
+TXN-1118,CUST-012,2023-01-05,Home & Kitchen,1200.0,4,Credit Card,1.0,USA
+TXN-1119,CUST-034,2023-01-05,Home & Kitchen,,4,credit_card,3.0,
+TXN-1120,CUST-033,2023-01-06,Electronics,,-1,credit_card,,UK
+TXN-1121,CUST-048,2023-01-06,Clothing,15.0,4,Credit Card,4.0,
+TXN-1122,CUST-023,2023-01-06,Clothing,25.5,2,Cash on Delivery,2.0,UK
+TXN-1123,CUST-024,2023-01-06,Electronics,1200.0,4,Crypto,1.0,pakistan
+TXN-1124,CUST-037,2023-01-06,Clothing,450.0,3,PayPal,2.0,Pakistan
+TXN-1125,CUST-035,2023-01-06,Clothing,120.0,-1,credit_card,,UK
+TXN-1126,CUST-044,2023-01-06,Books,450.0,1,Crypto,4.0,Pakistan
+TXN-1127,CUST-040,2023-01-06,,25.5,4,Cash on Delivery,,UAE
+TXN-1128,CUST-022,2023-01-06,Home & Kitchen,,10,PayPal,4.0,Pakistan
+TXN-1129,CUST-027,2023-01-06,Clothing,450.0,1,PayPal,5.0,UAE
+TXN-1130,CUST-035,2023-01-06,Electronics,15.0,2,credit_card,4.0,USA
+TXN-1131,CUST-001,2023-01-06,Toys,25.5,10,Credit Card,3.0,USA
+TXN-1132,CUST-035,2023-01-06,Toys,,1,Cash on Delivery,,US
+TXN-1133,CUST-037,2023-01-06,Electronics,120.0,10,credit_card,1.0,US
+TXN-1134,CUST-047,2023-01-06,Home & Kitchen,,2,Cash on Delivery,5.0,pakistan
+TXN-1135,CUST-014,2023-01-06,Electronics,-50.0,-1,Credit Card,3.0,UK
+TXN-1136,CUST-003,2023-01-06,Electronics,15.0,3,Credit Card,2.0,pakistan
+TXN-1137,CUST-001,2023-01-06,Electronics,25.5,2,credit_card,,UAE
+TXN-1138,CUST-005,2023-01-06,Electronics,120.0,2,Credit Card,10.0,pakistan
+TXN-1139,CUST-026,2023-01-06,,15.0,10,Crypto,10.0,Pakistan
+TXN-1140,CUST-014,2023-01-06,Home & Kitchen,,-1,PayPal,1.0,UAE
+TXN-1141,CUST-039,2023-01-06,Clothing,15.0,0,credit_card,4.0,US
+TXN-1142,CUST-027,2023-01-06,Home & Kitchen,25.5,5,Cash on Delivery,1.0,USA
+TXN-1143,CUST-009,2023-01-06,Toys,1200.0,4,Crypto,10.0,US
+TXN-1144,CUST-015,2023-01-07,,15.0,4,credit_card,2.0,UK
+TXN-1145,CUST-015,2023-01-07,Electronics,-50.0,3,Credit Card,5.0,UAE
+TXN-1146,CUST-026,2023-01-07,Clothing,15.0,3,Credit Card,5.0,UAE
+TXN-1147,CUST-042,2023-01-07,Electronics,,4,Credit Card,,Pakistan
+TXN-1148,CUST-013,2023-01-07,Clothing,,5,Credit Card,5.0,UK
+TXN-1149,CUST-032,2023-01-07,Electronics,120.0,4,Cash on Delivery,,USA
+TXN-1150,CUST-039,2023-01-07,Home & Kitchen,,0,Crypto,,
+TXN-1151,CUST-049,2023-01-07,Clothing,450.0,5,PayPal,,UAE
+TXN-1152,CUST-032,2023-01-07,Electronics,25.5,3,Cash on Delivery,10.0,UAE
+TXN-1153,CUST-004,2023-01-07,Electronics,25.5,1,Cash on Delivery,10.0,Pakistan
+TXN-1154,CUST-030,2023-01-07,Clothing,1200.0,10,PayPal,4.0,pakistan
+TXN-1155,CUST-037,2023-01-07,Electronics,1200.0,0,PayPal,3.0,USA
+TXN-1156,CUST-023,2023-01-07,Clothing,25.5,0,Credit Card,,US
+TXN-1157,CUST-039,2023-01-07,Electronics,-50.0,-1,Cash on Delivery,,UK
+TXN-1158,CUST-045,2023-01-07,Electronics,1200.0,3,credit_card,3.0,UAE
+TXN-1159,CUST-015,2023-01-07,Clothing,120.0,3,PayPal,1.0,UAE
+TXN-1160,CUST-043,2023-01-07,Home & Kitchen,,2,PayPal,,US
+TXN-1161,CUST-029,2023-01-07,Electronics,25.5,0,Crypto,4.0,USA
+TXN-1162,CUST-036,2023-01-07,Electronics,1200.0,2,credit_card,5.0,pakistan
+TXN-1163,CUST-013,2023-01-07,Electronics,25.5,2,credit_card,5.0,UAE
+TXN-1164,CUST-032,2023-01-07,Toys,450.0,10,PayPal,2.0,USA
+TXN-1165,CUST-007,2023-01-07,Clothing,15.0,2,Credit Card,2.0,US
+TXN-1166,CUST-022,2023-01-07,Home & Kitchen,,5,Crypto,5.0,Pakistan
+TXN-1167,CUST-028,2023-01-07,Toys,25.5,4,credit_card,5.0,pakistan
+TXN-1168,CUST-002,2023-01-08,Electronics,15.0,1,PayPal,10.0,UK
+TXN-1169,CUST-042,2023-01-08,Toys,1200.0,3,credit_card,4.0,UAE
+TXN-1170,CUST-045,2023-01-08,Home & Kitchen,15.0,5,Crypto,3.0,USA
+TXN-1171,CUST-006,2023-01-08,Electronics,,1,Crypto,2.0,Pakistan
+TXN-1172,CUST-028,2023-01-08,Clothing,25.5,0,Cash on Delivery,10.0,UK
+TXN-1173,CUST-028,2023-01-08,Books,450.0,0,PayPal,10.0,
+TXN-1174,CUST-044,2023-01-08,Clothing,-50.0,0,Crypto,3.0,USA
+TXN-1175,CUST-044,2023-01-08,,1200.0,5,Cash on Delivery,10.0,USA
+TXN-1176,CUST-020,2023-01-08,Clothing,25.5,5,Cash on Delivery,4.0,UK
+TXN-1177,CUST-030,2023-01-08,Home & Kitchen,,3,credit_card,5.0,Pakistan
+TXN-1178,CUST-011,2023-01-08,Clothing,1200.0,4,credit_card,,
+TXN-1179,CUST-028,2023-01-08,Books,120.0,-1,Cash on Delivery,3.0,US
+TXN-1180,CUST-025,2023-01-08,Home & Kitchen,15.0,2,credit_card,5.0,Pakistan
+TXN-1181,CUST-039,2023-01-08,Electronics,-50.0,0,Crypto,5.0,pakistan
+TXN-1182,CUST-033,2023-01-08,Electronics,,10,Credit Card,1.0,UAE
+TXN-1183,CUST-001,2023-01-08,Electronics,120.0,4,Crypto,3.0,UK
+TXN-1184,CUST-027,2023-01-08,Electronics,25.5,10,Cash on Delivery,10.0,US
+TXN-1185,CUST-013,2023-01-08,Electronics,450.0,3,Cash on Delivery,,
+TXN-1186,CUST-041,2023-01-08,Home & Kitchen,1200.0,3,Crypto,3.0,UK
+TXN-1187,CUST-003,2023-01-08,Clothing,15.0,3,credit_card,10.0,UK
+TXN-1188,CUST-039,2023-01-08,Home & Kitchen,1200.0,1,credit_card,5.0,Pakistan
+TXN-1189,CUST-006,2023-01-08,Toys,-50.0,10,Cash on Delivery,,UAE
+TXN-1190,CUST-008,2023-01-08,Home & Kitchen,25.5,4,PayPal,10.0,pakistan
+TXN-1191,CUST-027,2023-01-08,Home & Kitchen,1200.0,-1,credit_card,4.0,USA
+TXN-1192,CUST-009,2023-01-09,Books,15.0,4,Crypto,10.0,USA
+TXN-1193,CUST-037,2023-01-09,Clothing,25.5,5,credit_card,1.0,UK
+TXN-1194,CUST-033,2023-01-09,Electronics,1200.0,5,Crypto,5.0,UAE
+TXN-1195,CUST-042,2023-01-09,Electronics,450.0,0,Cash on Delivery,10.0,
+TXN-1196,CUST-044,2023-01-09,Electronics,,-1,credit_card,2.0,
+TXN-1197,CUST-024,2023-01-09,Electronics,25.5,5,Crypto,2.0,US
+TXN-1198,CUST-015,2023-01-09,Electronics,,3,Cash on Delivery,1.0,Pakistan
+TXN-1199,CUST-032,2023-01-09,Toys,25.5,4,PayPal,4.0,UAE
+TXN-1200,CUST-032,2023-01-09,Books,450.0,10,Crypto,5.0,UAE
+TXN-1201,CUST-024,2023-01-09,Electronics,,3,PayPal,3.0,Pakistan
+TXN-1202,CUST-041,2023-01-09,Electronics,120.0,1,PayPal,1.0,
+TXN-1203,CUST-049,2023-01-09,Electronics,15.0,5,Credit Card,4.0,
+TXN-1204,CUST-049,2023-01-09,Clothing,120.0,3,credit_card,3.0,
+TXN-1205,CUST-012,2023-01-09,Clothing,1200.0,3,Crypto,2.0,UK
+TXN-1206,CUST-039,2023-01-09,Books,450.0,1,PayPal,2.0,UAE
+TXN-1207,CUST-002,2023-01-09,Clothing,120.0,2,Credit Card,3.0,USA
+TXN-1208,CUST-003,2023-01-09,Books,25.5,4,Cash on Delivery,1.0,Pakistan
+TXN-1209,CUST-049,2023-01-09,,1200.0,10,Crypto,2.0,
+TXN-1210,CUST-037,2023-01-09,Electronics,1200.0,0,PayPal,5.0,US
+TXN-1211,CUST-049,2023-01-09,Books,120.0,2,credit_card,,
+TXN-1212,CUST-017,2023-01-09,Home & Kitchen,120.0,5,Credit Card,10.0,
+TXN-1213,CUST-049,2023-01-09,Clothing,450.0,3,PayPal,3.0,pakistan
+TXN-1214,CUST-002,2023-01-09,Clothing,15.0,-1,credit_card,3.0,UK
+TXN-1215,CUST-002,2023-01-09,Books,120.0,1,PayPal,2.0,Pakistan
+TXN-1216,CUST-028,2023-01-10,Home & Kitchen,-50.0,1,Crypto,1.0,pakistan
+TXN-1217,CUST-023,2023-01-10,Books,120.0,-1,Crypto,5.0,pakistan
+TXN-1218,CUST-037,2023-01-10,Toys,,4,Crypto,1.0,US
+TXN-1219,CUST-032,2023-01-10,Home & Kitchen,25.5,2,Credit Card,4.0,UAE
+TXN-1220,CUST-033,2023-01-10,,-50.0,0,Crypto,4.0,US
+TXN-1221,CUST-001,2023-01-10,Home & Kitchen,-50.0,4,credit_card,,UAE
+TXN-1222,CUST-019,2023-01-10,Home & Kitchen,,-1,PayPal,2.0,UAE
+TXN-1223,CUST-002,2023-01-10,Home & Kitchen,,3,Cash on Delivery,2.0,Pakistan
+TXN-1224,CUST-044,2023-01-10,Electronics,1200.0,-1,credit_card,2.0,
+TXN-1225,CUST-026,2023-01-10,Home & Kitchen,15.0,4,credit_card,,Pakistan
+TXN-1226,CUST-032,2023-01-10,Clothing,25.5,10,Crypto,4.0,UK
+TXN-1227,CUST-006,2023-01-10,Clothing,450.0,1,Credit Card,1.0,UAE
+TXN-1228,CUST-032,2023-01-10,Toys,-50.0,1,PayPal,,pakistan
+TXN-1229,CUST-004,2023-01-10,Electronics,450.0,5,Credit Card,,
+TXN-1230,CUST-011,2023-01-10,Clothing,120.0,5,PayPal,1.0,USA
+TXN-1231,CUST-017,2023-01-10,Home & Kitchen,120.0,-1,PayPal,2.0,UK
+TXN-1232,CUST-038,2023-01-10,Books,450.0,0,Credit Card,5.0,Pakistan
+TXN-1233,CUST-024,2023-01-10,Clothing,120.0,3,credit_card,1.0,US
+TXN-1234,CUST-005,2023-01-10,Books,15.0,10,PayPal,4.0,UK
+TXN-1235,CUST-034,2023-01-10,Books,,2,Credit Card,3.0,UK
+TXN-1236,CUST-006,2023-01-10,Electronics,120.0,4,PayPal,3.0,
+TXN-1237,CUST-022,2023-01-10,Electronics,1200.0,0,Cash on Delivery,10.0,UK
+TXN-1238,CUST-011,2023-01-10,Home & Kitchen,120.0,3,credit_card,10.0,UK
+TXN-1239,CUST-048,2023-01-10,Clothing,25.5,5,Crypto,,USA
+TXN-1240,CUST-016,2023-01-11,Electronics,15.0,-1,PayPal,3.0,US
+TXN-1241,CUST-033,2023-01-11,Home & Kitchen,25.5,4,Cash on Delivery,5.0,US
+TXN-1242,CUST-009,2023-01-11,Clothing,25.5,5,Crypto,2.0,US
+TXN-1243,CUST-006,2023-01-11,Clothing,1200.0,-1,Crypto,4.0,UAE
+TXN-1244,CUST-016,2023-01-11,Clothing,15.0,4,PayPal,10.0,pakistan
+TXN-1245,CUST-029,2023-01-11,Home & Kitchen,15.0,2,Credit Card,5.0,US
+TXN-1246,CUST-003,2023-01-11,Clothing,15.0,3,PayPal,4.0,UK
+TXN-1247,CUST-020,2023-01-11,Home & Kitchen,15.0,4,Cash on Delivery,4.0,UK
+TXN-1248,CUST-036,2023-01-11,Electronics,15.0,10,Crypto,2.0,US
+TXN-1249,CUST-019,2023-01-11,Home & Kitchen,1200.0,0,PayPal,,
+TXN-1250,CUST-026,2023-01-11,Clothing,120.0,1,Credit Card,3.0,US
+TXN-1251,CUST-003,2023-01-11,Toys,25.5,10,PayPal,2.0,UK
+TXN-1252,CUST-019,2023-01-11,Clothing,15.0,10,credit_card,5.0,UAE
+TXN-1253,CUST-020,2023-01-11,,-50.0,0,Credit Card,,Pakistan
+TXN-1254,CUST-032,2023-01-11,Home & Kitchen,120.0,1,Cash on Delivery,5.0,Pakistan
+TXN-1255,CUST-007,2023-01-11,Electronics,120.0,10,Crypto,,US
+TXN-1256,CUST-041,2023-01-11,Books,25.5,4,PayPal,10.0,USA
+TXN-1257,CUST-033,2023-01-11,Clothing,1200.0,4,Credit Card,5.0,US
+TXN-1258,CUST-040,2023-01-11,Clothing,450.0,4,credit_card,2.0,
+TXN-1259,CUST-039,2023-01-11,Electronics,450.0,1,Credit Card,,US
+TXN-1260,CUST-018,2023-01-11,Clothing,120.0,10,credit_card,,Pakistan
+TXN-1261,CUST-040,2023-01-11,Clothing,,-1,Cash on Delivery,4.0,UK
+TXN-1262,CUST-001,2023-01-11,Clothing,,1,Crypto,4.0,US
+TXN-1263,CUST-011,2023-01-11,Toys,25.5,4,Cash on Delivery,1.0,UK
+TXN-1264,CUST-028,2023-01-12,Electronics,450.0,0,PayPal,5.0,UK
+TXN-1265,CUST-025,2023-01-12,Clothing,120.0,10,Credit Card,4.0,USA
+TXN-1266,CUST-023,2023-01-12,Clothing,1200.0,10,credit_card,1.0,UK
+TXN-1267,CUST-031,2023-01-12,Electronics,450.0,5,credit_card,10.0,Pakistan
+TXN-1268,CUST-030,2023-01-12,Clothing,120.0,5,Credit Card,10.0,UAE
+TXN-1269,CUST-042,2023-01-12,Home & Kitchen,120.0,2,Credit Card,4.0,UAE
+TXN-1270,CUST-035,2023-01-12,Clothing,15.0,-1,PayPal,5.0,pakistan
+TXN-1271,CUST-007,2023-01-12,Electronics,1200.0,-1,Cash on Delivery,,
+TXN-1272,CUST-016,2023-01-12,Clothing,15.0,3,credit_card,3.0,US
+TXN-1273,CUST-026,2023-01-12,Electronics,25.5,-1,PayPal,5.0,
+TXN-1274,CUST-048,2023-01-12,Toys,15.0,5,Cash on Delivery,2.0,Pakistan
+TXN-1275,CUST-049,2023-01-12,Electronics,-50.0,1,PayPal,10.0,UK
+TXN-1276,CUST-002,2023-01-12,Home & Kitchen,15.0,-1,credit_card,4.0,UAE
+TXN-1277,CUST-001,2023-01-12,,-50.0,5,Credit Card,4.0,
+TXN-1278,CUST-048,2023-01-12,Clothing,450.0,2,Credit Card,,Pakistan
+TXN-1279,CUST-012,2023-01-12,Toys,,10,Cash on Delivery,2.0,UAE
+TXN-1280,CUST-005,2023-01-12,Electronics,120.0,-1,Crypto,,UK
+TXN-1281,CUST-037,2023-01-12,Books,-50.0,2,Cash on Delivery,2.0,
+TXN-1282,CUST-032,2023-01-12,Clothing,1200.0,10,Crypto,3.0,UAE
+TXN-1283,CUST-009,2023-01-12,Home & Kitchen,15.0,0,PayPal,10.0,US
+TXN-1284,CUST-041,2023-01-12,Electronics,-50.0,0,PayPal,4.0,US
+TXN-1285,CUST-035,2023-01-12,Electronics,1200.0,10,credit_card,4.0,pakistan
+TXN-1286,CUST-019,2023-01-12,Electronics,,-1,Crypto,3.0,pakistan
+TXN-1287,CUST-048,2023-01-12,Home & Kitchen,,3,credit_card,1.0,UAE
+TXN-1288,CUST-016,2023-01-13,Books,15.0,5,Credit Card,10.0,Pakistan
+TXN-1289,CUST-003,2023-01-13,Home & Kitchen,25.5,1,Crypto,,US
+TXN-1290,CUST-020,2023-01-13,Electronics,15.0,1,Cash on Delivery,3.0,Pakistan
+TXN-1291,CUST-024,2023-01-13,Toys,450.0,4,Credit Card,,Pakistan
+TXN-1292,CUST-033,2023-01-13,Clothing,-50.0,10,Credit Card,5.0,UAE
+TXN-1293,CUST-024,2023-01-13,Clothing,120.0,1,Cash on Delivery,4.0,Pakistan
+TXN-1294,CUST-011,2023-01-13,Electronics,25.5,-1,Credit Card,,US
+TXN-1295,CUST-049,2023-01-13,Home & Kitchen,15.0,3,Crypto,2.0,UK
+TXN-1296,CUST-008,2023-01-13,Electronics,1200.0,10,credit_card,,pakistan
+TXN-1297,CUST-036,2023-01-13,Home & Kitchen,25.5,3,Credit Card,5.0,UK
+TXN-1298,CUST-038,2023-01-13,Books,-50.0,-1,Crypto,10.0,Pakistan
+TXN-1299,CUST-040,2023-01-13,Electronics,25.5,1,PayPal,4.0,UK
+TXN-1300,CUST-020,2023-01-13,Clothing,-50.0,1,Crypto,3.0,US
+TXN-1301,CUST-035,2023-01-13,Electronics,15.0,4,credit_card,5.0,US
+TXN-1302,CUST-048,2023-01-13,Clothing,-50.0,1,Crypto,4.0,Pakistan
+TXN-1303,CUST-025,2023-01-13,Clothing,25.5,10,Cash on Delivery,,UAE
+TXN-1304,CUST-035,2023-01-13,Clothing,1200.0,-1,credit_card,10.0,UK
+TXN-1305,CUST-025,2023-01-13,Home & Kitchen,,0,PayPal,1.0,UAE
+TXN-1306,CUST-029,2023-01-13,Clothing,25.5,-1,Cash on Delivery,10.0,UAE
+TXN-1307,CUST-018,2023-01-13,Home & Kitchen,-50.0,10,Crypto,1.0,USA
+TXN-1308,CUST-046,2023-01-13,Home & Kitchen,,10,credit_card,2.0,Pakistan
+TXN-1309,CUST-018,2023-01-13,Home & Kitchen,-50.0,4,PayPal,10.0,pakistan
+TXN-1310,CUST-002,2023-01-13,Home & Kitchen,1200.0,4,Cash on Delivery,4.0,US
+TXN-1311,CUST-035,2023-01-13,Home & Kitchen,-50.0,1,PayPal,1.0,US
+TXN-1312,CUST-016,2023-01-14,Clothing,15.0,2,Crypto,3.0,Pakistan
+TXN-1313,CUST-041,2023-01-14,Clothing,120.0,-1,PayPal,4.0,
+TXN-1314,CUST-036,2023-01-14,Toys,25.5,-1,Credit Card,3.0,
+TXN-1315,CUST-033,2023-01-14,Home & Kitchen,120.0,2,Cash on Delivery,10.0,
+TXN-1316,CUST-004,2023-01-14,Electronics,-50.0,4,PayPal,3.0,pakistan
+TXN-1317,CUST-033,2023-01-14,Clothing,1200.0,1,Crypto,1.0,US
+TXN-1318,CUST-014,2023-01-14,Clothing,25.5,2,Crypto,4.0,Pakistan
+TXN-1319,CUST-021,2023-01-14,Toys,-50.0,1,PayPal,,US
+TXN-1320,CUST-048,2023-01-14,Electronics,,1,Crypto,5.0,UAE
+TXN-1321,CUST-020,2023-01-14,Electronics,450.0,1,credit_card,1.0,UK
+TXN-1322,CUST-008,2023-01-14,Clothing,-50.0,5,credit_card,1.0,UK
+TXN-1323,CUST-007,2023-01-14,Clothing,120.0,10,credit_card,,US
+TXN-1324,CUST-003,2023-01-14,Toys,25.5,1,Credit Card,4.0,USA
+TXN-1325,CUST-017,2023-01-14,Electronics,120.0,5,PayPal,4.0,pakistan
+TXN-1326,CUST-033,2023-01-14,Books,25.5,4,Credit Card,10.0,
+TXN-1327,CUST-048,2023-01-14,Electronics,-50.0,2,Crypto,3.0,pakistan
+TXN-1328,CUST-012,2023-01-14,Books,15.0,10,Credit Card,10.0,pakistan
+TXN-1329,CUST-022,2023-01-14,Electronics,,0,Crypto,,UAE
+TXN-1330,CUST-022,2023-01-14,Electronics,-50.0,2,Crypto,10.0,pakistan
+TXN-1331,CUST-046,2023-01-14,Home & Kitchen,120.0,10,Cash on Delivery,,UK
+TXN-1332,CUST-030,2023-01-14,,450.0,0,credit_card,4.0,UAE
+TXN-1333,CUST-038,2023-01-14,Toys,450.0,2,Crypto,3.0,Pakistan
+TXN-1334,CUST-038,2023-01-14,Home & Kitchen,1200.0,10,Cash on Delivery,10.0,pakistan
+TXN-1335,CUST-045,2023-01-14,Toys,25.5,2,credit_card,1.0,pakistan
+TXN-1336,CUST-008,2023-01-15,Electronics,120.0,2,Crypto,2.0,Pakistan
+TXN-1337,CUST-027,2023-01-15,,1200.0,0,Crypto,5.0,pakistan
+TXN-1338,CUST-027,2023-01-15,Clothing,120.0,2,Credit Card,1.0,Pakistan
+TXN-1339,CUST-034,2023-01-15,Home & Kitchen,25.5,2,Credit Card,4.0,UAE
+TXN-1340,CUST-021,2023-01-15,Books,-50.0,0,credit_card,5.0,UK
+TXN-1341,CUST-030,2023-01-15,Home & Kitchen,-50.0,4,Crypto,2.0,Pakistan
+TXN-1342,CUST-033,2023-01-15,Clothing,450.0,1,PayPal,2.0,USA
+TXN-1343,CUST-028,2023-01-15,Clothing,-50.0,-1,Credit Card,3.0,Pakistan
+TXN-1344,CUST-047,2023-01-15,Books,-50.0,3,credit_card,5.0,pakistan
+TXN-1345,CUST-033,2023-01-15,Electronics,15.0,5,Crypto,3.0,
+TXN-1346,CUST-005,2023-01-15,,450.0,3,Crypto,1.0,
+TXN-1347,CUST-048,2023-01-15,Home & Kitchen,1200.0,3,PayPal,,UAE
+TXN-1348,CUST-019,2023-01-15,Electronics,,10,credit_card,,US
+TXN-1349,CUST-004,2023-01-15,Home & Kitchen,15.0,1,Crypto,,UAE
+TXN-1350,CUST-035,2023-01-15,Clothing,1200.0,10,Credit Card,5.0,US
+TXN-1351,CUST-049,2023-01-15,Home & Kitchen,25.5,1,PayPal,,
+TXN-1352,CUST-017,2023-01-15,Books,15.0,0,credit_card,1.0,
+TXN-1353,CUST-044,2023-01-15,Electronics,1200.0,0,PayPal,3.0,Pakistan
+TXN-1354,CUST-028,2023-01-15,Clothing,25.5,-1,Credit Card,5.0,UK
+TXN-1355,CUST-030,2023-01-15,Toys,450.0,1,credit_card,3.0,USA
+TXN-1356,CUST-029,2023-01-15,Clothing,,2,PayPal,5.0,UAE
+TXN-1357,CUST-046,2023-01-15,Home & Kitchen,25.5,4,Cash on Delivery,3.0,pakistan
+TXN-1358,CUST-006,2023-01-15,Clothing,-50.0,-1,Credit Card,2.0,US
+TXN-1359,CUST-035,2023-01-15,Clothing,120.0,-1,Credit Card,3.0,pakistan
+TXN-1360,CUST-041,2023-01-16,Clothing,25.5,2,Credit Card,,UK
+TXN-1361,CUST-037,2023-01-16,Clothing,25.5,4,Cash on Delivery,2.0,US
+TXN-1362,CUST-024,2023-01-16,Electronics,,10,Cash on Delivery,3.0,UAE
+TXN-1363,CUST-029,2023-01-16,Home & Kitchen,120.0,4,Crypto,5.0,Pakistan
+TXN-1364,CUST-049,2023-01-16,Electronics,-50.0,10,PayPal,5.0,pakistan
+TXN-1365,CUST-046,2023-01-16,Electronics,1200.0,0,Crypto,5.0,UK
+TXN-1366,CUST-031,2023-01-16,Electronics,1200.0,3,PayPal,4.0,UAE
+TXN-1367,CUST-035,2023-01-16,Electronics,25.5,0,Cash on Delivery,1.0,
+TXN-1368,CUST-033,2023-01-16,Clothing,120.0,0,Cash on Delivery,5.0,
+TXN-1369,CUST-021,2023-01-16,Home & Kitchen,120.0,3,Crypto,2.0,UAE
+TXN-1370,CUST-032,2023-01-16,Books,-50.0,4,credit_card,5.0,UAE
+TXN-1371,CUST-023,2023-01-16,Electronics,,-1,Crypto,4.0,UAE
+TXN-1372,CUST-033,2023-01-16,Toys,450.0,4,PayPal,,US
+TXN-1373,CUST-003,2023-01-16,Home & Kitchen,1200.0,10,Crypto,2.0,UAE
+TXN-1374,CUST-018,2023-01-16,Clothing,,2,Credit Card,4.0,pakistan
+TXN-1375,CUST-025,2023-01-16,Toys,15.0,10,PayPal,,UK
+TXN-1376,CUST-042,2023-01-16,,1200.0,2,PayPal,10.0,US
+TXN-1377,CUST-031,2023-01-16,Electronics,,0,credit_card,10.0,UAE
+TXN-1378,CUST-003,2023-01-16,Clothing,1200.0,3,Cash on Delivery,2.0,USA
+TXN-1379,CUST-040,2023-01-16,Toys,450.0,0,PayPal,3.0,USA
+TXN-1380,CUST-046,2023-01-16,Home & Kitchen,15.0,1,Cash on Delivery,1.0,UK
+TXN-1381,CUST-024,2023-01-16,Electronics,450.0,4,Crypto,1.0,
+TXN-1382,CUST-032,2023-01-16,Books,-50.0,2,Credit Card,4.0,Pakistan
+TXN-1383,CUST-047,2023-01-16,Books,15.0,10,credit_card,,Pakistan
+TXN-1384,CUST-022,2023-01-17,Books,25.5,3,Cash on Delivery,1.0,
+TXN-1385,CUST-023,2023-01-17,Books,,2,PayPal,,US
+TXN-1386,CUST-002,2023-01-17,Books,15.0,10,Cash on Delivery,,US
+TXN-1387,CUST-027,2023-01-17,Electronics,-50.0,4,PayPal,4.0,US
+TXN-1388,CUST-042,2023-01-17,Electronics,-50.0,0,Cash on Delivery,4.0,Pakistan
+TXN-1389,CUST-002,2023-01-17,Home & Kitchen,450.0,4,PayPal,4.0,USA
+TXN-1390,CUST-026,2023-01-17,Toys,1200.0,5,Crypto,1.0,Pakistan
+TXN-1391,CUST-017,2023-01-17,Clothing,15.0,1,PayPal,10.0,pakistan
+TXN-1392,CUST-040,2023-01-17,Home & Kitchen,,5,PayPal,4.0,UAE
+TXN-1393,CUST-033,2023-01-17,Home & Kitchen,15.0,3,Credit Card,1.0,US
+TXN-1394,CUST-009,2023-01-17,Clothing,120.0,2,PayPal,4.0,USA
+TXN-1395,CUST-043,2023-01-17,Home & Kitchen,1200.0,3,Credit Card,5.0,UK
+TXN-1396,CUST-048,2023-01-17,Toys,,0,credit_card,,UK
+TXN-1397,CUST-039,2023-01-17,Home & Kitchen,,10,Credit Card,4.0,UAE
+TXN-1398,CUST-029,2023-01-17,Clothing,25.5,4,Crypto,2.0,USA
+TXN-1399,CUST-042,2023-01-17,Clothing,450.0,5,Credit Card,,Pakistan
+TXN-1400,CUST-026,2023-01-17,Home & Kitchen,25.5,-1,credit_card,,Pakistan
+TXN-1401,CUST-035,2023-01-17,Clothing,,5,Crypto,4.0,pakistan
+TXN-1402,CUST-025,2023-01-17,Clothing,1200.0,0,Cash on Delivery,10.0,pakistan
+TXN-1403,CUST-024,2023-01-17,Clothing,15.0,5,Cash on Delivery,3.0,Pakistan
+TXN-1404,CUST-013,2023-01-17,Electronics,15.0,0,Credit Card,10.0,UK
+TXN-1405,CUST-007,2023-01-17,Electronics,1200.0,-1,Credit Card,4.0,US
+TXN-1406,CUST-036,2023-01-17,Clothing,,3,credit_card,,UK
+TXN-1407,CUST-045,2023-01-17,Clothing,-50.0,4,credit_card,2.0,pakistan
+TXN-1408,CUST-020,2023-01-18,Clothing,15.0,2,PayPal,,UAE
+TXN-1409,CUST-001,2023-01-18,Home & Kitchen,-50.0,10,credit_card,10.0,Pakistan
+TXN-1410,CUST-008,2023-01-18,Home & Kitchen,15.0,2,PayPal,2.0,pakistan
+TXN-1411,CUST-046,2023-01-18,Electronics,15.0,3,Crypto,1.0,pakistan
+TXN-1412,CUST-016,2023-01-18,Toys,450.0,10,Credit Card,5.0,US
+TXN-1413,CUST-014,2023-01-18,Clothing,450.0,5,Crypto,,Pakistan
+TXN-1414,CUST-012,2023-01-18,Home & Kitchen,120.0,-1,credit_card,4.0,US
+TXN-1415,CUST-023,2023-01-18,Home & Kitchen,25.5,-1,Crypto,1.0,Pakistan
+TXN-1416,CUST-015,2023-01-18,,1200.0,1,Crypto,5.0,US
+TXN-1417,CUST-028,2023-01-18,Books,1200.0,3,Crypto,4.0,UK
+TXN-1418,CUST-034,2023-01-18,Home & Kitchen,1200.0,3,credit_card,3.0,UAE
+TXN-1419,CUST-002,2023-01-18,Books,120.0,4,Crypto,4.0,UAE
+TXN-1420,CUST-032,2023-01-18,Electronics,450.0,2,PayPal,2.0,Pakistan
+TXN-1421,CUST-023,2023-01-18,Electronics,,3,credit_card,2.0,USA
+TXN-1422,CUST-022,2023-01-18,Home & Kitchen,-50.0,3,Crypto,3.0,
+TXN-1423,CUST-025,2023-01-18,Clothing,-50.0,5,credit_card,1.0,pakistan
+TXN-1424,CUST-022,2023-01-18,Books,,5,Cash on Delivery,5.0,pakistan
+TXN-1425,CUST-022,2023-01-18,Electronics,120.0,10,PayPal,4.0,Pakistan
+TXN-1426,CUST-049,2023-01-18,Clothing,,0,Crypto,2.0,US
+TXN-1427,CUST-042,2023-01-18,Clothing,1200.0,0,Cash on Delivery,1.0,USA
+TXN-1428,CUST-006,2023-01-18,Clothing,25.5,1,Cash on Delivery,3.0,UK
+TXN-1429,CUST-015,2023-01-18,Home & Kitchen,15.0,0,credit_card,10.0,US
+TXN-1430,CUST-043,2023-01-18,Clothing,-50.0,4,Cash on Delivery,,US
+TXN-1431,CUST-037,2023-01-18,Clothing,450.0,1,PayPal,10.0,Pakistan
+TXN-1432,CUST-033,2023-01-19,Clothing,450.0,10,PayPal,10.0,Pakistan
+TXN-1433,CUST-008,2023-01-19,Clothing,120.0,5,Credit Card,2.0,pakistan
+TXN-1434,CUST-044,2023-01-19,Books,450.0,0,PayPal,3.0,Pakistan
+TXN-1435,CUST-044,2023-01-19,Electronics,1200.0,2,Cash on Delivery,4.0,Pakistan
+TXN-1436,CUST-005,2023-01-19,Home & Kitchen,-50.0,5,PayPal,10.0,Pakistan
+TXN-1437,CUST-039,2023-01-19,Home & Kitchen,,-1,credit_card,10.0,pakistan
+TXN-1438,CUST-004,2023-01-19,Home & Kitchen,1200.0,4,Credit Card,5.0,UK
+TXN-1439,CUST-006,2023-01-19,Home & Kitchen,120.0,5,Cash on Delivery,2.0,UK
+TXN-1440,CUST-045,2023-01-19,Books,1200.0,4,Credit Card,2.0,
+TXN-1441,CUST-032,2023-01-19,,,4,Cash on Delivery,4.0,
+TXN-1442,CUST-030,2023-01-19,Clothing,25.5,4,credit_card,,Pakistan
+TXN-1443,CUST-047,2023-01-19,Electronics,120.0,10,Credit Card,1.0,
+TXN-1444,CUST-035,2023-01-19,Clothing,25.5,4,Crypto,5.0,pakistan
+TXN-1445,CUST-040,2023-01-19,Electronics,15.0,4,Cash on Delivery,2.0,UK
+TXN-1446,CUST-016,2023-01-19,Home & Kitchen,25.5,-1,Crypto,5.0,US
+TXN-1447,CUST-013,2023-01-19,Toys,15.0,2,Credit Card,2.0,UK
+TXN-1448,CUST-042,2023-01-19,Electronics,15.0,1,Crypto,5.0,UK
+TXN-1449,CUST-030,2023-01-19,Electronics,25.5,3,Crypto,3.0,pakistan
+TXN-1450,CUST-019,2023-01-19,Electronics,120.0,-1,Credit Card,10.0,
+TXN-1451,CUST-017,2023-01-19,Home & Kitchen,,1,credit_card,2.0,US
+TXN-1452,CUST-019,2023-01-19,Home & Kitchen,1200.0,4,Crypto,5.0,pakistan
+TXN-1453,CUST-028,2023-01-19,Electronics,1200.0,2,Crypto,1.0,Pakistan
+TXN-1454,CUST-026,2023-01-19,Toys,,5,credit_card,3.0,UAE
+TXN-1455,CUST-037,2023-01-19,Books,-50.0,2,Crypto,3.0,UK
+TXN-1456,CUST-026,2023-01-20,Electronics,-50.0,-1,Crypto,1.0,UAE
+TXN-1457,CUST-023,2023-01-20,Home & Kitchen,15.0,4,Crypto,5.0,pakistan
+TXN-1458,CUST-009,2023-01-20,Books,15.0,2,PayPal,4.0,pakistan
+TXN-1459,CUST-012,2023-01-20,Clothing,120.0,0,credit_card,1.0,pakistan
+TXN-1460,CUST-001,2023-01-20,Electronics,450.0,2,Crypto,5.0,UAE
+TXN-1461,CUST-001,2023-01-20,Electronics,25.5,4,credit_card,1.0,pakistan
+TXN-1462,CUST-047,2023-01-20,Electronics,15.0,10,Cash on Delivery,1.0,Pakistan
+TXN-1463,CUST-034,2023-01-20,Books,1200.0,0,Cash on Delivery,2.0,pakistan
+TXN-1464,CUST-032,2023-01-20,Toys,120.0,2,Crypto,5.0,USA
+TXN-1465,CUST-048,2023-01-20,Electronics,25.5,3,credit_card,4.0,
+TXN-1466,CUST-025,2023-01-20,Electronics,120.0,3,credit_card,10.0,UAE
+TXN-1467,CUST-040,2023-01-20,Electronics,25.5,2,credit_card,2.0,USA
+TXN-1468,CUST-045,2023-01-20,Electronics,25.5,10,PayPal,1.0,pakistan
+TXN-1469,CUST-001,2023-01-20,Books,,5,Cash on Delivery,10.0,Pakistan
+TXN-1470,CUST-016,2023-01-20,Clothing,15.0,4,credit_card,,UK
+TXN-1471,CUST-039,2023-01-20,Clothing,120.0,3,credit_card,10.0,US
+TXN-1472,CUST-005,2023-01-20,Electronics,120.0,5,PayPal,1.0,
+TXN-1473,CUST-022,2023-01-20,Home & Kitchen,,2,PayPal,1.0,US
+TXN-1474,CUST-029,2023-01-20,Clothing,1200.0,-1,credit_card,5.0,pakistan
+TXN-1475,CUST-003,2023-01-20,Home & Kitchen,1200.0,5,Credit Card,5.0,
+TXN-1476,CUST-012,2023-01-20,Electronics,-50.0,0,credit_card,2.0,
+TXN-1477,CUST-026,2023-01-20,Books,15.0,1,credit_card,4.0,Pakistan
+TXN-1478,CUST-016,2023-01-20,Home & Kitchen,15.0,3,PayPal,2.0,
+TXN-1479,CUST-037,2023-01-20,Electronics,450.0,2,PayPal,3.0,UAE
+TXN-1480,CUST-022,2023-01-21,Clothing,,-1,credit_card,1.0,USA
+TXN-1481,CUST-029,2023-01-21,Toys,1200.0,4,credit_card,10.0,USA
+TXN-1482,CUST-014,2023-01-21,Toys,25.5,-1,credit_card,,USA
+TXN-1483,CUST-028,2023-01-21,Clothing,120.0,10,PayPal,1.0,UAE
+TXN-1484,CUST-005,2023-01-21,Clothing,15.0,0,credit_card,1.0,US
+TXN-1485,CUST-047,2023-01-21,Toys,120.0,2,credit_card,2.0,Pakistan
+TXN-1486,CUST-049,2023-01-21,Home & Kitchen,120.0,4,Crypto,,
+TXN-1487,CUST-030,2023-01-21,Electronics,450.0,10,Credit Card,,UAE
+TXN-1488,CUST-046,2023-01-21,Toys,1200.0,10,Cash on Delivery,,USA
+TXN-1489,CUST-005,2023-01-21,Electronics,15.0,2,Credit Card,2.0,pakistan
+TXN-1490,CUST-012,2023-01-21,Home & Kitchen,120.0,0,Crypto,1.0,UK
+TXN-1491,CUST-016,2023-01-21,Electronics,15.0,5,Cash on Delivery,2.0,
+TXN-1492,CUST-026,2023-01-21,Electronics,25.5,5,credit_card,5.0,UAE
+TXN-1493,CUST-026,2023-01-21,Clothing,450.0,10,Crypto,5.0,UAE
+TXN-1494,CUST-048,2023-01-21,Books,25.5,5,credit_card,2.0,Pakistan
+TXN-1495,CUST-021,2023-01-21,Electronics,15.0,1,PayPal,,Pakistan
+TXN-1496,CUST-039,2023-01-21,Electronics,-50.0,10,Crypto,1.0,UAE
+TXN-1497,CUST-036,2023-01-21,Electronics,15.0,10,PayPal,2.0,USA
+TXN-1498,CUST-033,2023-01-21,Clothing,1200.0,4,Crypto,2.0,UK
+TXN-1499,CUST-030,2023-01-21,,120.0,5,Crypto,2.0,
+TXN-1000,CUST-039,2023-01-01,Home & Kitchen,15.0,3,Credit Card,2.0,UK
+TXN-1001,CUST-029,2023-01-01,Electronics,15.0,2,Crypto,3.0,pakistan
+TXN-1002,CUST-015,2023-01-01,Toys,450.0,-1,PayPal,1.0,
+TXN-1003,CUST-043,2023-01-01,Toys,,4,Credit Card,5.0,US
+TXN-1004,CUST-008,2023-01-01,Electronics,,0,Cash on Delivery,4.0,UAE
+TXN-1005,CUST-021,2023-01-01,Electronics,450.0,10,Credit Card,5.0,
+TXN-1006,CUST-039,2023-01-01,Toys,-50.0,-1,Credit Card,,US
+TXN-1007,CUST-019,2023-01-01,Clothing,1200.0,3,Crypto,2.0,UAE
+TXN-1008,CUST-023,2023-01-01,Clothing,15.0,5,PayPal,5.0,UK
+TXN-1009,CUST-011,2023-01-01,Home & Kitchen,-50.0,-1,Cash on Delivery,2.0,USA
+TXN-1010,CUST-011,2023-01-01,Home & Kitchen,15.0,2,credit_card,5.0,UK
+TXN-1011,CUST-024,2023-01-01,Toys,1200.0,2,credit_card,1.0,UK
+TXN-1012,CUST-036,2023-01-01,Toys,,10,Credit Card,1.0,
+TXN-1013,CUST-040,2023-01-01,Toys,-50.0,5,Crypto,1.0,Pakistan
+TXN-1014,CUST-024,2023-01-01,Home & Kitchen,120.0,4,Crypto,1.0,
